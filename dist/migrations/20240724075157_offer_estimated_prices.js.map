@@ -1,0 +1,1 @@
+{"version":3,"file":"20240724075157_offer_estimated_prices.js","sourceRoot":"","sources":["../../src/migrations/20240724075157_offer_estimated_prices.ts"],"names":[],"mappings":";;;AAGO,KAAK,UAAU,EAAE,CAAC,IAAU;IAC/B,IAAI,CAAC,MAAM,CAAC,UAAU,CAAC,QAAQ,EAAE,KAAK,CAAC,EAAE;IAEzC,CAAC,CAAC,CAAA;AACN,CAAC;AAJD,gBAIC;AAGM,KAAK,UAAU,IAAI,CAAC,IAAU;AACrC,CAAC;AADD,oBACC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"20240717114511_drop_payed_offers.js","sourceRoot":"","sources":["../../src/migrations/20240717114511_drop_payed_offers.ts"],"names":[],"mappings":";;;AAGO,KAAK,UAAU,EAAE,CAAC,IAAU;IAC/B,IAAI,CAAC,MAAM,CAAC,SAAS,CAAC,cAAc,CAAC,CAAA;AACzC,CAAC;AAFD,gBAEC;AAGM,KAAK,UAAU,IAAI,CAAC,IAAU;AACrC,CAAC;AADD,oBACC"}
